@@ -4,6 +4,8 @@ Replaces stock GCC Z button with a Omron D2LS mouse switch.
 
 NEW! - Universal brackets work on Phob, Goomwave, and OEM controllers.
 
+V3 of bracket makes the tolerance looser for and easier fit on all controllers/switches.
+
 More details at https://simplecontrollers.bigcartel.com/mouseswitch-z
 
 
